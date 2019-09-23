@@ -1,0 +1,21 @@
+{
+  "name": "crescotelegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setPriceBot.js",
+  "dependencies": {
+    "cryptr": "^4.0.2",
+    "telegraf": "^3.25.0",
+    "truffle": "^4.1.14",
+    "truffle-hdwallet-provider": "^0.0.6",
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {},
+  "author": "",
+  "license": "ISC",
+  "homepage": ""
+}
